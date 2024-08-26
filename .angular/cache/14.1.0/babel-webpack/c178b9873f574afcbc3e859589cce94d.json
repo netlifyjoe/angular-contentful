@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const environment = {\n  contentfulSpaceId: 'undefined',\n  contentfulPreviewToken: 'undefined',\n  contentfulDeliveryToken: 'undefined',\n  production: 'undefined'\n};","map":null,"metadata":{},"sourceType":"module"}
